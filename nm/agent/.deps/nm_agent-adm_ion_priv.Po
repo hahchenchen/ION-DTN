@@ -1,0 +1,6 @@
+nm/agent/nm_agent-adm_ion_priv.o: nm/agent/adm_ion_priv.c \
+ /usr/include/stdc-predef.h config.h
+
+/usr/include/stdc-predef.h:
+
+config.h:

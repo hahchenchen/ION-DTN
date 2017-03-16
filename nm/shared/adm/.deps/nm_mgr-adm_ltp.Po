@@ -1,0 +1,6 @@
+nm/shared/adm/nm_mgr-adm_ltp.o: nm/shared/adm/adm_ltp.c \
+ /usr/include/stdc-predef.h config.h
+
+/usr/include/stdc-predef.h:
+
+config.h:

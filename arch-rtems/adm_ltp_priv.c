@@ -1,0 +1,1 @@
+../nm/agent/adm_ltp_priv.c

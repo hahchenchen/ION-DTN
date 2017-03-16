@@ -1,0 +1,281 @@
+[2016/12/28-15:53:13] [i] No congestion collapse predicted.
+[2016/12/28-15:53:13] [i] ionwarn finished.
+[2016/12/28-15:53:13] [i] rfxclock is running.
+[2016/12/28-15:53:14] [i] No congestion collapse predicted.
+[2016/12/28-15:53:14] [i] ionwarn finished.
+[2016/12/28-15:53:14] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 1): xmit segment loss rate 0.008266, recv segment loss rate 0.000008, max timeouts 3.
+[2016/12/28-15:53:14] [i] Total max export sessions does not exceed estimate.
+[2016/12/28-15:53:14] [i] ltpclock is running.
+[2016/12/28-15:53:14] [i] ltpmeter is running.
+[2016/12/28-15:53:14] [i] udplsi is running, spec=[0.0.0.0:1113].
+[2016/12/28-15:53:14] [i] udplso is running, spec=[127.0.0.1:1113], txbps=0 (0=unlimited), rengine=1.
+[2016/12/28-15:53:15] [?] Can't find ION security database.
+[2016/12/28-15:53:15] [?] Warning: running without bundle security.
+[2016/12/28-15:53:15] [?] Can't find ION security database.
+[2016/12/28-15:53:15] [i] bpclock is running.
+[2016/12/28-15:53:15] [?] Can't find ION security database.
+[2016/12/28-15:53:15] [i] bptransit is running.
+[2016/12/28-15:53:15] [?] Can't find ION security database.
+[2016/12/28-15:53:15] [i] ipnadminep is running.
+[2016/12/28-15:53:15] [?] Can't find ION security database.
+[2016/12/28-15:53:15] [i] ipnfw is running.
+[2016/12/28-15:53:15] [?] Can't find ION security database.
+[2016/12/28-15:53:15] [i] No node number for this LTP duct name: 1
+[2016/12/28-15:53:15] [i] ltpclo is running.
+[2016/12/28-15:53:15] [?] Can't find ION security database.
+[2016/12/28-15:53:15] [i] ltpcli is running.
+[2016/12/28-15:53:16] [?] Can't find ION security database.
+[2016/12/28-15:53:34] [?] Overlapping contact ignored: from 2016/12/28-07:53:35 until 2016/12/28-08:53:34, 1->1
+[2016/12/28-15:53:34] [?] Overlapping range for node: 1
+[2016/12/28-15:53:34] [i] No congestion collapse predicted.
+[2016/12/28-15:53:34] [i] ionwarn finished.
+[2016/12/28-15:53:35] [i] No congestion collapse predicted.
+[2016/12/28-15:53:35] [i] ionwarn finished.
+[2016/12/28-15:53:35] [?] Duplicate span: 1
+[2016/12/28-15:53:35] [i] Total max export sessions does not exceed estimate.
+[2016/12/28-15:53:35] [i] udplso is running, spec=[127.0.0.1:1113], txbps=0 (0=unlimited), rengine=1.
+[2016/12/28-15:53:35] [i] ltpmeter is running.
+[2016/12/28-15:53:36] [?] Can't find ION security database.
+[2016/12/28-15:53:36] [?] Warning: running without bundle security.
+[2016/12/28-15:53:36] [?] Duplicate scheme: ipn
+[2016/12/28-15:53:36] [?] Duplicate endpoint: ipn:1.1
+[2016/12/28-15:53:36] [?] Duplicate endpoint: ipn:1.2
+[2016/12/28-15:53:36] [?] Duplicate protocol: ltp
+[2016/12/28-15:53:36] [?] Duplicate induct: 1
+[2016/12/28-15:53:36] [?] Duplicate outduct: 1
+[2016/12/28-15:53:36] [?] Can't find ION security database.
+[2016/12/28-15:53:36] [i] ipnfw is running.
+[2016/12/28-15:53:36] [?] Can't find ION security database.
+[2016/12/28-15:53:36] [i] ipnadminep is running.
+[2016/12/28-15:53:36] at line 99 of bp/library/libbp.c, Endpoint is already open. (2214)
+[2016/12/28-15:53:36] at line 11815 of bp/library/libbpP.c, Can't open admin endpoint. (ipn:1.0)
+[2016/12/28-15:53:36] at line 172 of bp/ipn/ipnadminep.c, ipnadminep crashed.
+[2016/12/28-15:53:36] [i] ipnadminep has ended.
+[2016/12/28-15:53:36] [?] Can't find ION security database.
+[2016/12/28-15:53:36] [i] ltpclo is running.
+[2016/12/28-15:53:36] [?] Can't find ION security database.
+[2016/12/28-15:53:36] [i] ltpcli is running.
+[2016/12/28-15:53:37] at line 1500 of ltp/library/libltpP.c, Client service already in use. (1)
+[2016/12/28-15:53:37] at line 254 of bp/ltp/ltpcli.c, ltpcli can't open client access. (1)
+[2016/12/28-15:53:37] [i] ltpcli duct has ended.
+[2016/12/28-15:53:37] [?] Can't find ION security database.
+[2016/12/28-15:53:37] [?] Duplicate ipn plan: 1
+[2016/12/28-15:55:41] [?] Overlapping contact ignored: from 2016/12/28-07:55:42 until 2016/12/28-08:55:41, 1->1
+[2016/12/28-15:55:41] [?] Overlapping range for node: 1
+[2016/12/28-15:55:41] [i] No congestion collapse predicted.
+[2016/12/28-15:55:41] [i] ionwarn finished.
+[2016/12/28-15:55:41] [i] No congestion collapse predicted.
+[2016/12/28-15:55:41] [i] ionwarn finished.
+[2016/12/28-15:55:42] [?] Duplicate span: 1
+[2016/12/28-15:55:42] [i] Total max export sessions does not exceed estimate.
+[2016/12/28-15:55:42] [i] udplso is running, spec=[127.0.0.1:1113], txbps=0 (0=unlimited), rengine=1.
+[2016/12/28-15:55:42] [i] ltpmeter is running.
+[2016/12/28-15:55:43] [?] Can't find ION security database.
+[2016/12/28-15:55:43] [?] Warning: running without bundle security.
+[2016/12/28-15:55:43] [?] Duplicate scheme: ipn
+[2016/12/28-15:55:43] [?] Duplicate endpoint: ipn:1.1
+[2016/12/28-15:55:43] [?] Duplicate endpoint: ipn:1.2
+[2016/12/28-15:55:43] [?] Duplicate protocol: ltp
+[2016/12/28-15:55:43] [?] Duplicate induct: 1
+[2016/12/28-15:55:43] [?] Duplicate outduct: 1
+[2016/12/28-15:55:43] [?] Can't find ION security database.
+[2016/12/28-15:55:43] [i] ipnfw is running.
+[2016/12/28-15:55:43] [?] Can't find ION security database.
+[2016/12/28-15:55:43] [i] ipnadminep is running.
+[2016/12/28-15:55:43] [?] Can't find ION security database.
+[2016/12/28-15:55:43] at line 99 of bp/library/libbp.c, Endpoint is already open. (2214)
+[2016/12/28-15:55:43] at line 11815 of bp/library/libbpP.c, Can't open admin endpoint. (ipn:1.0)
+[2016/12/28-15:55:43] at line 172 of bp/ipn/ipnadminep.c, ipnadminep crashed.
+[2016/12/28-15:55:43] [i] ipnadminep has ended.
+[2016/12/28-15:55:43] [?] Can't find ION security database.
+[2016/12/28-15:55:43] [i] ltpclo is running.
+[2016/12/28-15:55:43] [i] ltpcli is running.
+[2016/12/28-15:55:43] [?] Can't find ION security database.
+[2016/12/28-15:55:44] at line 1500 of ltp/library/libltpP.c, Client service already in use. (1)
+[2016/12/28-15:55:44] at line 254 of bp/ltp/ltpcli.c, ltpcli can't open client access. (1)
+[2016/12/28-15:55:44] [i] ltpcli duct has ended.
+[2016/12/28-15:55:44] [?] Can't find ION security database.
+[2016/12/28-15:55:44] [?] Duplicate ipn plan: 1
+[2016/12/28-15:55:54] [?] Can't find ION security database.
+[2016/12/28-15:56:01] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 44): xmit segment loss rate 0.008266, recv segment loss rate 0.000357, max timeouts 3.
+[2016/12/28-15:57:14] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 47): xmit segment loss rate 0.008266, recv segment loss rate 0.000381, max timeouts 3.
+[2016/12/28-16:03:57] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 129): xmit segment loss rate 0.008266, recv segment loss rate 0.001045, max timeouts 3.
+[2016/12/28-17:07:16] at line 2490 of ici/library/rfx.c, Can't remove range(s).
+[2016/12/28-17:07:16] at line 536 of ici/daemon/rfxclock.c, Failed handling event.
+[2016/12/28-17:07:16] at line 586 of ici/daemon/rfxclock.c, Can't do ION 1Hz updates.
+[2016/12/28-17:07:16] [i] No congestion collapse predicted.
+[2016/12/28-17:07:16] [i] ionwarn finished.
+[2016/12/28-17:07:17] [?] Duplicate span: 1
+[2016/12/28-17:07:17] [i] Total max export sessions does not exceed estimate.
+[2016/12/28-17:07:17] [i] ltpmeter is running.
+[2016/12/28-17:07:17] [i] udplso is running, spec=[127.0.0.1:1113], txbps=0 (0=unlimited), rengine=1.
+[2016/12/28-17:07:18] [?] Can't find ION security database.
+[2016/12/28-17:07:18] [?] Warning: running without bundle security.
+[2016/12/28-17:07:18] [?] Duplicate scheme: ipn
+[2016/12/28-17:07:18] [?] Duplicate endpoint: ipn:1.1
+[2016/12/28-17:07:18] [?] Duplicate endpoint: ipn:1.2
+[2016/12/28-17:07:18] [?] Duplicate protocol: ltp
+[2016/12/28-17:07:18] [?] Duplicate induct: 1
+[2016/12/28-17:07:18] [?] Duplicate outduct: 1
+[2016/12/28-17:07:18] [?] Can't find ION security database.
+[2016/12/28-17:07:18] [i] ipnfw is running.
+[2016/12/28-17:07:18] [?] Can't find ION security database.
+[2016/12/28-17:07:18] [i] ipnadminep is running.
+[2016/12/28-17:07:18] at line 99 of bp/library/libbp.c, Endpoint is already open. (2214)
+[2016/12/28-17:07:18] at line 11815 of bp/library/libbpP.c, Can't open admin endpoint. (ipn:1.0)
+[2016/12/28-17:07:18] at line 172 of bp/ipn/ipnadminep.c, ipnadminep crashed.
+[2016/12/28-17:07:18] [i] ipnadminep has ended.
+[2016/12/28-17:07:18] [?] Can't find ION security database.
+[2016/12/28-17:07:18] [i] ltpcli is running.
+[2016/12/28-17:07:18] [?] Can't find ION security database.
+[2016/12/28-17:07:18] [i] ltpclo is running.
+[2016/12/28-17:07:19] at line 1500 of ltp/library/libltpP.c, Client service already in use. (1)
+[2016/12/28-17:07:19] at line 254 of bp/ltp/ltpcli.c, ltpcli can't open client access. (1)
+[2016/12/28-17:07:19] [i] ltpcli duct has ended.
+[2016/12/28-17:07:19] [?] Can't find ION security database.
+[2016/12/28-17:07:19] [?] Duplicate ipn plan: 1
+[2016/12/28-17:07:25] [?] Can't find ION security database.
+[2016/12/28-17:07:28] [?] Can't find ION security database.
+[2016/12/28-17:08:51] [?] Can't find ION security database.
+[2016/12/28-17:08:51] [i] ipnfw forwarder has ended.
+[2016/12/28-17:08:51] [i] Outduct has been stopped.
+[2016/12/28-17:08:51] [i] Outduct has been stopped.
+[2016/12/28-17:08:51] [i] ltpclo outduct closed.
+[2016/12/28-17:08:51] [i] ltpclo outduct closed.
+[2016/12/28-17:08:51] [i] ltpclo duct has ended.
+[2016/12/28-17:08:51] [i] ltpclo duct has ended.
+[2016/12/28-17:08:51] [i] Endpoint has been stopped.
+[2016/12/28-17:08:51] [i] Endpoint has been stopped.
+[2016/12/28-17:08:51] [i] Administrative endpoint terminated.
+[2016/12/28-17:08:51] [i] ipnadminep has ended.
+[2016/12/28-17:08:51] [i] Outduct has been stopped.
+[2016/12/28-17:08:51] [i] ltpclo outduct closed.
+[2016/12/28-17:08:51] [i] ltpclo duct has ended.
+[2016/12/28-17:08:51] [i] Outduct has been stopped.
+[2016/12/28-17:08:51] [i] ltpclo outduct closed.
+[2016/12/28-17:08:51] [i] ltpclo duct has ended.
+[2016/12/28-17:08:51] [i] bpclock has ended.
+[2016/12/28-17:08:51] [i] ipnfw forwarder has ended.
+[2016/12/28-17:08:51] [i] ipnfw forwarder has ended.
+[2016/12/28-17:08:51] [i] bptransit has ended.
+[2016/12/28-17:08:51] [i] ipnfw forwarder has ended.
+[2016/12/28-17:08:53] at line 809 of cfdp/library/libcfdpP.c, Can't find CFDP database.
+[2016/12/28-17:08:54] [i] LSO to engine 1 is stopped.
+[2016/12/28-17:08:54] [?] Client access terminated.
+[2016/12/28-17:08:54] [i] LTP meter to engine 1 is stopped.
+[2016/12/28-17:08:54] [i] ltpmeter has ended.
+[2016/12/28-17:08:54] [i] udplsi receiver thread has ended.
+[2016/12/28-17:08:54] [i] LSO to engine 1 is stopped.
+[2016/12/28-17:08:54] [i] LSO to engine 1 is stopped.
+[2016/12/28-17:08:54] [i] LSO to engine 1 is stopped.
+[2016/12/28-17:08:54] [i] LTP meter to engine 1 is stopped.
+[2016/12/28-17:08:54] [i] ltpmeter has ended.
+[2016/12/28-17:08:54] [i] udplsi has ended.
+[2016/12/28-17:08:54] [i] ltpclock has ended.
+[2016/12/28-17:08:54] [i] LTP meter to engine 1 is stopped.
+[2016/12/28-17:08:54] [i] ltpmeter has ended.
+[2016/12/28-17:08:54] at line 278 of bp/ltp/ltpcli.c, Can't get LTP notice.
+[2016/12/28-17:08:54] [i] ltpcli receiver thread has ended.
+[2016/12/28-17:08:54] [i] ltpcli duct has ended.
+[2016/12/28-17:08:54] [i] LTP meter to engine 1 is stopped.
+[2016/12/28-17:08:54] [i] ltpmeter has ended.
+[2016/12/28-17:08:54] [i] udplso receiver thread has ended.
+[2016/12/28-17:08:54] [i] udplso receiver thread has ended.
+[2016/12/28-17:08:54] [i] udplso has ended.
+[2016/12/28-17:08:54] [i] udplso receiver thread has ended.
+[2016/12/28-17:08:54] [i] udplso has ended.
+[2016/12/28-17:08:54] [i] udplso has ended.
+[2016/12/28-17:08:54] [i] udplso receiver thread has ended.
+[2016/12/28-17:08:54] [i] udplso has ended.
+[2016/12/28-17:11:02] [i] rfxclock is running.
+[2016/12/28-17:11:02] [i] No congestion collapse predicted.
+[2016/12/28-17:11:02] [i] ionwarn finished.
+[2016/12/28-17:11:03] [i] No congestion collapse predicted.
+[2016/12/28-17:11:03] [i] ionwarn finished.
+[2016/12/28-17:11:03] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 1): xmit segment loss rate 0.008266, recv segment loss rate 0.000008, max timeouts 3.
+[2016/12/28-17:11:03] [i] Total max export sessions does not exceed estimate.
+[2016/12/28-17:11:03] [i] ltpclock is running.
+[2016/12/28-17:11:03] [i] udplsi is running, spec=[0.0.0.0:1113].
+[2016/12/28-17:11:03] [i] ltpmeter is running.
+[2016/12/28-17:11:03] [i] udplso is running, spec=[127.0.0.1:1113], txbps=0 (0=unlimited), rengine=1.
+[2016/12/28-17:11:04] [?] Can't find ION security database.
+[2016/12/28-17:11:04] [?] Warning: running without bundle security.
+[2016/12/28-17:11:04] [?] Can't find ION security database.
+[2016/12/28-17:11:04] [i] bpclock is running.
+[2016/12/28-17:11:04] [?] Can't find ION security database.
+[2016/12/28-17:11:04] [i] ipnadminep is running.
+[2016/12/28-17:11:04] [?] Can't find ION security database.
+[2016/12/28-17:11:04] [i] bptransit is running.
+[2016/12/28-17:11:04] [?] Can't find ION security database.
+[2016/12/28-17:11:04] [i] ipnfw is running.
+[2016/12/28-17:11:04] [?] Can't find ION security database.
+[2016/12/28-17:11:04] [i] ltpcli is running.
+[2016/12/28-17:11:04] [?] Can't find ION security database.
+[2016/12/28-17:11:04] [i] No node number for this LTP duct name: 1
+[2016/12/28-17:11:04] [i] ltpclo is running.
+[2016/12/28-17:11:05] [?] Can't find ION security database.
+[2016/12/28-17:11:06] [?] Can't find ION security database.
+[2016/12/28-17:11:09] [?] Can't find ION security database.
+[2016/12/28-17:11:12] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 40): xmit segment loss rate 0.008266, recv segment loss rate 0.000324, max timeouts 3.
+[2016/12/28-17:11:17] [?] Can't find ION security database.
+[2016/12/28-17:11:17] [i] Endpoint has been stopped.
+[2016/12/28-17:11:17] [i] ipnfw forwarder has ended.
+[2016/12/28-17:11:17] [i] Administrative endpoint terminated.
+[2016/12/28-17:11:17] [i] Endpoint has been stopped.
+[2016/12/28-17:11:17] [i] ipnadminep has ended.
+[2016/12/28-17:11:17] [i] Outduct has been stopped.
+[2016/12/28-17:11:17] [i] ltpclo outduct closed.
+[2016/12/28-17:11:17] [i] ltpclo duct has ended.
+[2016/12/28-17:11:17] [i] bptransit has ended.
+[2016/12/28-17:11:17] [i] bpclock has ended.
+[2016/12/28-17:11:17] [i] ltpcli receiver thread has ended.
+[2016/12/28-17:11:17] [i] ltpcli duct has ended.
+[2016/12/28-17:11:19] at line 809 of cfdp/library/libcfdpP.c, Can't find CFDP database.
+[2016/12/28-17:11:20] [i] LTP meter to engine 1 is stopped.
+[2016/12/28-17:11:20] [i] LSO to engine 1 is stopped.
+[2016/12/28-17:11:20] [i] ltpmeter has ended.
+[2016/12/28-17:11:20] [i] ltpclock has ended.
+[2016/12/28-17:11:20] [i] udplsi receiver thread has ended.
+[2016/12/28-17:11:20] [i] udplso receiver thread has ended.
+[2016/12/28-17:11:20] [i] udplsi has ended.
+[2016/12/28-17:11:20] [i] udplso has ended.
+[2016/12/28-17:11:21] [i] rfxclock has ended.
+[2016/12/28-17:12:49] at line 1953 of ici/library/platform_sm.c, Can't give semaphore: Invalid argument (47)
+[2016/12/28-17:12:49] [i] Stopping bpsource.
+[2016/12/28-17:12:49] at line 1922 of ici/library/platform_sm.c, Can't take semaphore: Invalid argument (1)
+[2016/12/28-17:12:49] at line 1953 of ici/library/platform_sm.c, Can't give semaphore: Invalid argument (1)
+[2016/12/28-17:12:49] at line 1922 of ici/library/platform_sm.c, Can't take semaphore: Invalid argument (1)
+[2016/12/28-17:12:49] at line 1953 of ici/library/platform_sm.c, Can't give semaphore: Invalid argument (1)
+[2016/12/28-18:36:55] [i] rfxclock is running.
+[2016/12/28-18:36:55] [i] No congestion collapse predicted.
+[2016/12/28-18:36:55] [i] ionwarn finished.
+[2016/12/28-18:36:56] [i] No congestion collapse predicted.
+[2016/12/28-18:36:56] [i] ionwarn finished.
+[2016/12/28-18:36:56] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 1): xmit segment loss rate 0.008266, recv segment loss rate 0.000008, max timeouts 3.
+[2016/12/28-18:36:56] [i] Total max export sessions does not exceed estimate.
+[2016/12/28-18:36:56] [i] udplsi is running, spec=[0.0.0.0:1113].
+[2016/12/28-18:36:56] [i] ltpclock is running.
+[2016/12/28-18:36:56] [i] ltpmeter is running.
+[2016/12/28-18:36:56] [i] udplso is running, spec=[127.0.0.1:1113], txbps=0 (0=unlimited), rengine=1.
+[2016/12/28-18:36:57] [?] Can't find ION security database.
+[2016/12/28-18:36:57] [?] Warning: running without bundle security.
+[2016/12/28-18:36:57] [?] Can't find ION security database.
+[2016/12/28-18:36:57] [i] bpclock is running.
+[2016/12/28-18:36:57] [?] Can't find ION security database.
+[2016/12/28-18:36:57] [?] Can't find ION security database.
+[2016/12/28-18:36:57] [i] bptransit is running.
+[2016/12/28-18:36:57] [i] ipnfw is running.
+[2016/12/28-18:36:57] [?] Can't find ION security database.
+[2016/12/28-18:36:57] [i] ipnadminep is running.
+[2016/12/28-18:36:57] [?] Can't find ION security database.
+[2016/12/28-18:36:57] [i] ltpcli is running.
+[2016/12/28-18:36:57] [?] Can't find ION security database.
+[2016/12/28-18:36:57] [i] No node number for this LTP duct name: 1
+[2016/12/28-18:36:57] [i] ltpclo is running.
+[2016/12/28-18:36:58] [?] Can't find ION security database.
+[2016/12/28-18:37:07] [?] Can't find ION security database.
+[2016/12/28-18:37:09] [?] Can't find ION security database.
+[2016/12/28-18:37:12] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 42): xmit segment loss rate 0.008266, recv segment loss rate 0.000340, max timeouts 3.
+[2016/12/28-19:36:55] [i] No congestion collapse predicted.
+[2016/12/28-19:36:55] [i] ionwarn finished.
+[2016/12/28-22:22:57] [i] bptransit has ended.

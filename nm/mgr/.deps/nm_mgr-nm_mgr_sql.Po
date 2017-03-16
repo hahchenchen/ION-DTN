@@ -1,0 +1,6 @@
+nm/mgr/nm_mgr-nm_mgr_sql.o: nm/mgr/nm_mgr_sql.c \
+ /usr/include/stdc-predef.h config.h
+
+/usr/include/stdc-predef.h:
+
+config.h:

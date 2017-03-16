@@ -1,0 +1,200 @@
+[2016/12/27-22:04:39] [i] rfxclock is running.
+[2016/12/27-22:04:39] [i] No congestion forecast; horizon reached.
+[2016/12/27-22:04:39] [i] ionwarn finished.
+[2016/12/27-22:04:40] [i] No congestion forecast; horizon reached.
+[2016/12/27-22:04:40] [i] ionwarn finished.
+[2016/12/27-22:04:40] [?] Can't find ION security database.
+[2016/12/27-22:04:40] [?] Warning: running without bundle security.
+[2016/12/27-22:04:40] [?] Can't find ION security database.
+[2016/12/27-22:04:40] [i] bpclock is running.
+[2016/12/27-22:04:40] [?] Can't find ION security database.
+[2016/12/27-22:04:40] [i] bptransit is running.
+[2016/12/27-22:04:40] [?] Can't find ION security database.
+[2016/12/27-22:04:40] [i] ipnfw is running.
+[2016/12/27-22:04:40] [?] Can't find ION security database.
+[2016/12/27-22:04:40] [i] udpcli is running, spec=[0.0.0.0:4556].
+[2016/12/27-22:04:40] [?] Can't find ION security database.
+[2016/12/27-22:04:40] [i] ipnadminep is running.
+[2016/12/27-22:04:40] [?] Can't find ION security database.
+[2016/12/27-22:04:40] [i] udpclo is running.
+[2016/12/27-22:04:41] [i] No congestion forecast; horizon reached.
+[2016/12/27-22:04:41] [i] ionwarn finished.
+[2016/12/27-22:04:41] [x] src from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [x] fwd from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [x] xmt from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [x] rcv from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [x] dlv from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [x] ctr from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [x] rfw from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [x] exp from 1970/01/01-08:00:00 to 2016/12/27-22:04:41: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/27-22:04:41] [?] Can't find ION security database.
+[2016/12/28-11:13:44] [?] Overlapping contact ignored: from 2016/12/28-03:13:45 until 2016/12/28-04:13:44, 1->1
+[2016/12/28-11:13:44] [?] Overlapping contact ignored: from 2016/12/28-03:13:45 until 2016/12/28-04:13:44, 1->2
+[2016/12/28-11:13:44] [?] Overlapping contact ignored: from 2016/12/28-03:13:45 until 2016/12/28-04:13:44, 2->1
+[2016/12/28-11:13:44] [?] Overlapping range for node: 1
+[2016/12/28-11:13:44] [?] Overlapping range for node: 1
+[2016/12/28-11:13:44] [?] Overlapping range for node: 2
+[2016/12/28-11:13:44] [i] rfxclock is running.
+[2016/12/28-11:13:44] [i] No congestion forecast; horizon reached.
+[2016/12/28-11:13:44] [i] ionwarn finished.
+[2016/12/28-11:13:45] [i] No congestion forecast; horizon reached.
+[2016/12/28-11:13:45] [i] ionwarn finished.
+[2016/12/28-11:13:45] [?] Can't find ION security database.
+[2016/12/28-11:13:45] [?] Warning: running without bundle security.
+[2016/12/28-11:13:45] [?] Duplicate scheme: ipn
+[2016/12/28-11:13:45] [?] Duplicate endpoint: ipn:1.1
+[2016/12/28-11:13:45] [?] Duplicate endpoint: ipn:1.2
+[2016/12/28-11:13:45] [?] Duplicate endpoint: ipn:1.3
+[2016/12/28-11:13:45] [?] Duplicate protocol: udp
+[2016/12/28-11:13:45] [?] Duplicate induct: 0.0.0.0:4556
+[2016/12/28-11:13:45] [?] Duplicate outduct: *
+[2016/12/28-11:13:45] [?] Can't find ION security database.
+[2016/12/28-11:13:45] [i] bptransit is running.
+[2016/12/28-11:13:45] [?] Can't find ION security database.
+[2016/12/28-11:13:45] [i] bpclock is running.
+[2016/12/28-11:13:45] [?] Can't find ION security database.
+[2016/12/28-11:13:45] [i] ipnfw is running.
+[2016/12/28-11:13:45] [?] Can't find ION security database.
+[2016/12/28-11:13:45] [i] ipnadminep is running.
+[2016/12/28-11:13:45] [?] Can't find ION security database.
+[2016/12/28-11:13:45] [i] udpcli is running, spec=[0.0.0.0:4556].
+[2016/12/28-11:13:45] [?] Can't find ION security database.
+[2016/12/28-11:13:45] [i] udpclo is running.
+[2016/12/28-11:13:46] [?] Can't find ION security database.
+[2016/12/28-11:13:46] [?] Duplicate ipn plan: 1
+[2016/12/28-15:19:20] at line 2439 of ici/library/rfx.c, Can't remove range(s).
+[2016/12/28-15:19:20] at line 536 of ici/daemon/rfxclock.c, Failed handling event.
+[2016/12/28-15:19:20] at line 586 of ici/daemon/rfxclock.c, Can't do ION 1Hz updates.
+[2016/12/28-15:19:38] [?] Overlapping contact ignored: from 2016/12/28-07:19:36 until 2016/12/28-08:19:35, 1->1
+[2016/12/28-15:19:38] [?] Overlapping contact ignored: from 2016/12/28-07:19:36 until 2016/12/28-08:19:35, 1->2
+[2016/12/28-15:19:38] [?] Overlapping contact ignored: from 2016/12/28-07:19:36 until 2016/12/28-08:19:35, 2->1
+[2016/12/28-15:19:38] [?] Overlapping range for node: 1
+[2016/12/28-15:19:38] [?] Overlapping range for node: 1
+[2016/12/28-15:19:38] [?] Overlapping range for node: 2
+[2016/12/28-15:19:38] [i] rfxclock is running.
+[2016/12/28-15:19:38] [i] No congestion forecast; horizon reached.
+[2016/12/28-15:19:38] [i] ionwarn finished.
+[2016/12/28-15:25:25] [?] Can't find ION security database.
+[2016/12/28-15:25:25] [?] Can't find ION security database.
+[2016/12/28-17:12:44] [i] rfxclock is running.
+[2016/12/28-17:12:44] [i] No congestion forecast; horizon reached.
+[2016/12/28-17:12:44] [i] ionwarn finished.
+[2016/12/28-17:12:45] [i] No congestion forecast; horizon reached.
+[2016/12/28-17:12:45] [i] ionwarn finished.
+[2016/12/28-17:12:45] [?] Can't find ION security database.
+[2016/12/28-17:12:45] [?] Warning: running without bundle security.
+[2016/12/28-17:12:45] [?] Can't find ION security database.
+[2016/12/28-17:12:45] [i] bpclock is running.
+[2016/12/28-17:12:45] [?] Can't find ION security database.
+[2016/12/28-17:12:45] [i] bptransit is running.
+[2016/12/28-17:12:45] [?] Can't find ION security database.
+[2016/12/28-17:12:45] [i] ipnfw is running.
+[2016/12/28-17:12:45] [?] Can't find ION security database.
+[2016/12/28-17:12:45] [i] ipnadminep is running.
+[2016/12/28-17:12:45] [?] Can't find ION security database.
+[2016/12/28-17:12:45] [i] udpclo is running.
+[2016/12/28-17:12:45] [?] Can't find ION security database.
+[2016/12/28-17:12:45] [i] udpcli is running, spec=[0.0.0.0:4556].
+[2016/12/28-17:12:46] [i] No congestion forecast; horizon reached.
+[2016/12/28-17:12:46] [i] ionwarn finished.
+[2016/12/28-17:12:46] [x] src from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [x] fwd from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [x] xmt from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [x] rcv from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [x] dlv from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [x] ctr from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [x] rfw from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [x] exp from 1970/01/01-08:00:00 to 2016/12/28-17:12:46: (0) 0 0 (1) 0 0 (2) 0 0 (+) 0 0
+[2016/12/28-17:12:46] [?] Can't find ION security database.
+[2016/12/28-17:12:55] [?] Can't find ION security database.
+[2016/12/28-17:27:15] [i] Endpoint has been stopped.
+[2016/12/28-17:27:15] [i] Administrative endpoint terminated.
+[2016/12/28-17:27:15] [i] ipnfw forwarder has ended.
+[2016/12/28-17:27:15] [i] ipnadminep has ended.
+[2016/12/28-17:27:15] [i] Outduct has been stopped.
+[2016/12/28-17:27:15] [i] udpclo outduct closed.
+[2016/12/28-17:27:15] [i] udpclo duct has ended.
+[2016/12/28-17:27:15] [i] bptransit has ended.
+[2016/12/28-17:27:33] [i] Stopping bpsource.
+[2016/12/28-17:28:01] [?] Overlapping contact ignored: from 2016/12/28-09:28:02 until 2016/12/28-10:28:01, 1->1
+[2016/12/28-17:28:01] [?] Overlapping range for node: 1
+[2016/12/28-17:28:01] [i] rfxclock is running.
+[2016/12/28-17:28:01] [i] No congestion forecast; horizon reached.
+[2016/12/28-17:28:01] [i] ionwarn finished.
+[2016/12/28-17:28:02] [i] No congestion forecast; horizon reached.
+[2016/12/28-17:28:02] [i] ionwarn finished.
+[2016/12/28-17:28:02] [i] Span to engine 1 (max BER 0.000001, max xmit segment size 1024, max recv segment size 1): xmit segment loss rate 0.008266, recv segment loss rate 0.000008, max timeouts 3.
+[2016/12/28-17:28:02] [i] Total max export sessions does not exceed estimate.
+[2016/12/28-17:28:02] [i] ltpclock is running.
+[2016/12/28-17:28:02] [i] udplsi is running, spec=[0.0.0.0:1113].
+[2016/12/28-17:28:02] [i] ltpmeter is running.
+[2016/12/28-17:28:02] [i] udplso is running, spec=[127.0.0.1:1113], txbps=0 (0=unlimited), rengine=1.
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [?] Warning: running without bundle security.
+[2016/12/28-17:28:03] [?] Duplicate scheme: ipn
+[2016/12/28-17:28:03] [?] Duplicate endpoint: ipn:1.1
+[2016/12/28-17:28:03] [?] Duplicate endpoint: ipn:1.2
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] bptransit is running.
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] ipnfw is running.
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] bpclock is running.
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] ltpcli is running.
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] udpclo is running.
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] udpcli is running, spec=[0.0.0.0:4556].
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] ipnadminep is running.
+[2016/12/28-17:28:03] [?] Can't find ION security database.
+[2016/12/28-17:28:03] [i] No node number for this LTP duct name: 1
+[2016/12/28-17:28:03] [i] ltpclo is running.
+[2016/12/28-17:28:04] [?] Can't find ION security database.
+[2016/12/28-17:28:04] [?] Duplicate ipn plan: 1
+[2016/12/28-17:28:06] [?] Can't find ION security database.
+[2016/12/28-17:32:49] [i] Endpoint has been stopped.
+[2016/12/28-17:32:49] [i] Administrative endpoint terminated.
+[2016/12/28-17:32:49] [i] ipnfw forwarder has ended.
+[2016/12/28-17:32:49] [i] ipnadminep has ended.
+[2016/12/28-17:32:49] [i] Outduct has been stopped.
+[2016/12/28-17:32:49] [i] udpclo outduct closed.
+[2016/12/28-17:32:49] [i] udpclo duct has ended.
+[2016/12/28-17:32:49] [i] Outduct has been stopped.
+[2016/12/28-17:32:49] [i] ltpclo outduct closed.
+[2016/12/28-17:32:49] [i] ltpclo duct has ended.
+[2016/12/28-17:32:49] [i] bptransit has ended.
+[2016/12/28-17:32:51] [?] Client access terminated.
+[2016/12/28-17:32:51] [i] LTP meter to engine 1 is stopped.
+[2016/12/28-17:32:51] [i] LSO to engine 1 is stopped.
+[2016/12/28-17:32:51] [i] ltpmeter has ended.
+[2016/12/28-17:32:51] at line 278 of bp/ltp/ltpcli.c, Can't get LTP notice.
+[2016/12/28-17:32:51] [i] ltpcli receiver thread has ended.
+[2016/12/28-17:32:51] at line 1530 of ltp/library/libltpP.c, Can't close: not owner of client service.
+[2016/12/28-17:32:51] [i] ltpcli duct has ended.
+[2016/12/28-18:31:25] [i] Stopping bpsource.
+[2016/12/28-18:33:11] [i] rfxclock is running.
+[2016/12/28-18:33:11] [i] No congestion forecast; horizon reached.
+[2016/12/28-18:33:11] [i] ionwarn finished.
+[2016/12/28-18:36:19] [?] Overlapping contact ignored: from 2016/12/28-10:36:17 until 2016/12/28-11:36:16, 1->1
+[2016/12/28-18:36:19] [?] Overlapping range for node: 1
+[2016/12/28-18:36:19] [i] rfxclock is running.
+[2016/12/28-18:36:19] [i] No congestion forecast; horizon reached.
+[2016/12/28-18:36:19] [i] ionwarn finished.
+[2016/12/28-18:36:24] at line 586 of ici/daemon/rfxclock.c, Can't do ION 1Hz updates.
+[2016/12/28-18:36:24] at line 586 of ici/daemon/rfxclock.c, Can't do ION 1Hz updates.
+[2016/12/28-18:36:37] [?] Can't find ION security database.
+[2016/12/28-18:36:38] at line 809 of cfdp/library/libcfdpP.c, Can't find CFDP database.
+[2016/12/28-18:36:41] [i] bpclock has ended.
+[2016/12/28-18:36:41] [i] bpclock has ended.
+[2016/12/28-18:36:42] [i] ltpclock has ended.
+[2016/12/28-18:36:42] [i] udpcli receiver thread has ended.
+[2016/12/28-18:36:42] [i] udpcli receiver thread has ended.
+[2016/12/28-18:36:42] [i] udpcli duct has ended.
+[2016/12/28-18:36:42] [i] udpcli duct has ended.
+[2016/12/28-18:36:42] [i] udplsi receiver thread has ended.
+[2016/12/28-18:36:42] [i] udplsi has ended.
+[2016/12/28-18:36:42] [i] LSO to engine 1 is stopped.
+[2016/12/28-18:36:42] [i] udplso receiver thread has ended.
+[2016/12/28-18:36:42] [i] udplso has ended.

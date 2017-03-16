@@ -1,0 +1,6 @@
+nm/shared/adm/nm_agent-adm_ion.o: nm/shared/adm/adm_ion.c \
+ /usr/include/stdc-predef.h config.h
+
+/usr/include/stdc-predef.h:
+
+config.h:
