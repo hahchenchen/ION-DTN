@@ -1,0 +1,1 @@
+../nm/shared/msg/msg_admin.h

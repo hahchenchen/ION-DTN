@@ -1,0 +1,1 @@
+../ltp/test/ltpcounter.c
